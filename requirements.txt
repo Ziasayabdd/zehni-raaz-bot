@@ -1,0 +1,5 @@
+google-genai
+Pillow
+requests
+arabic-reshaper
+python-bidi
